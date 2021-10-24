@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Praepost)
 
-## I'm a Backend beginner Developer
+## I'm a Backend Beginner Developer
 - 💪 I like to write code
-- 🎉 I love to play video games
+- 🎮 I love to play video games
 - 🥅 I am constantly learning new things
 
 ### Connect with me:
@@ -15,9 +15,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" height="26px" width="26px" src="" />
-<img align="left" alt="Spring" height="26px" width="26px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
-<img align="left" alt="Intelj idea" height="26px" width="26px" src="" />
+<img align="left" alt="Java" height="26px" width="26px" src="https://raw.githubusercontent.com/Praepost/Praepost/main/java.png" />
+<img align="left" alt="Spring" height="26px" width="26px" src="https://raw.githubusercontent.com/Praepost/Praepost/main/spring.jpg" />
+<img align="left" alt="Intelj idea" height="26px" width="26px" src="https://raw.githubusercontent.com/Praepost/Praepost/main/IntelliJ_IDEA_Icon.svg.png" />
 
 
 <br />
