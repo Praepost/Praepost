@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Praepost)
 
-## I'm a Backend Beginner Developer
+## I'm a Beginner Backend Developer
 - 💪 I like to write code
 - 🎮 I love to play video games
 - 🥅 I am constantly learning new things
