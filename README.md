@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=Praepost)
 
 ## I'm a Beginner Backend Developer
-- 💪 I like to write code
-- 🎮 I love to play video games
+- 💪 I love to write code
+- 🎮 I like to play video games
 - 🥅 I am constantly learning new things
 
 ### Connect with me:
