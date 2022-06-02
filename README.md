@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dmitriy
+### Hi there 👋, I'm Dmitry
 
 ![](https://komarev.com/ghpvc/?username=Praepost)
 
