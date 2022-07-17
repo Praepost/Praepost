@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="telegram" width="22px" src="https://raw.githubusercontent.com/Praepost/Praepost/main/telegram.png" />][vk]
+[<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/Praepost/Praepost/main/telegram.png" />][telegram]
 
 <br />
 
