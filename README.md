@@ -1,15 +1,10 @@
-### Hi there 👋, I'm Dmitry
+### Hi there 👋, I'm Dmitry Java Backend Developer
 
 ![](https://komarev.com/ghpvc/?username=Praepost)
 
-## I'm a Beginner Backend Developer
-- 💪 I love to write code
-- 🎮 I like to play video games
-- 🥅 I am constantly learning new things
-
 ### Connect with me:
 
-[<img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="telegram" width="22px" src="https://raw.githubusercontent.com/Praepost/Praepost/main/telegram.png" />][vk]
 
 <br />
 
@@ -31,4 +26,4 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Praepost&show_icons=true" />
 </details>
 
-[vk]: https://vk.com/praepost
+[telegram]: https://t.me/Praepost
