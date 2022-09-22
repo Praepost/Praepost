@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Dmitry Java Backend Developer
+<h1 align="center">Hi there, I'm Dmitry <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3 align="center"> I'm a Java Backend Developer.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Praepost)
 
